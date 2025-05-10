@@ -78,8 +78,3 @@ Our project goals:
 Our research is based on following paper:
 > https://arxiv.org/abs/2305.14980
 
----
-
-## Contributions
-
-Contributions and questions are welcome via issues or pull requests!
